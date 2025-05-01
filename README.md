@@ -23,7 +23,6 @@ I'm a passionate and versatile **Software Developer** with 4+ years of experienc
 
 📝 **Blogs & Publications**
 
-- 📄 [Secure Authentication and Authorization in .NET Core](https://blogs.magnusminds.net/blog/js/watermark.min.js34.39)
 - 📄 [Will AI Replace Developers? Exploring the Future of Coding in the Age of AI](https://blogs.magnusminds.net/Author/Himanshu-Pranami)
 
 ---
